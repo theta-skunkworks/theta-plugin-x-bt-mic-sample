@@ -9,10 +9,10 @@ This plug-in is a sample program that uses the microphone of a bluetooth device 
 
 Please perform pairing and connection with the Bluetooth device before starting the plug-in.
 
-When the plug-in is started, the following operations are performed.
-(1) Activate the microphone of the Bluetooth device
-(2) Press the shutter button to stream audio data sampled from the Bluetooth device's microphone to the speaker. 
-(3) If the shutter button is pressed while (2) is being performed, the process of (2) will stop.
+When the plug-in is started, the following operations are performed.<br>
+(1) Activate the microphone of the Bluetooth device<br>
+(2) Press the shutter button to stream audio data sampled from the Bluetooth device's microphone to the speaker. <br>
+(3) If the shutter button is pressed while (2) is being performed, the process of (2) will stop.<br>
 
 
 The AudioRecord class provided by Google is used to sample the sound input from the microphone.
